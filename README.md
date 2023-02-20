@@ -1,9 +1,10 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+
 This is a game I made for an intro computer science class where you play as a cowboy samurai who needs to protect the desert
 by defeating all the crabs. Inspired by Kaarin Gaming.
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ![Example 1](https://i.imgur.com/bmnwveC.png)
+
 ![Example 2](https://i.imgur.com/3WXsC4R.png)
 
   entity Package:
