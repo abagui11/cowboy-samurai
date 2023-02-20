@@ -3,8 +3,8 @@ This is a game I made for an intro computer science class where you play as a co
 by defeating all the crabs. Inspired by Kaarin Gaming.
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
-![alt text](https://imgur.com/a/gN4CSWj)
-![alt text](https://imgur.com/a/DnZVv1e)
+![Example 1](exampleimage1.png)
+![Example 2](exampleimage2.png)
 
   entity Package:
     Crabby: Crab enemy object that extends Enemy abstract class
